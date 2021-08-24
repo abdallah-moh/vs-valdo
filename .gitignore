@@ -1,5 +1,10 @@
-out
-dist
-node_modules
-.vscode-test/
-*.vsix
+# Folders
+/out/
+/dist/
+/node_modules/
+/.vscode-test/
+
+# Files
+/*.vsix
+/vsc-extention-quickstart.md
+/.vscode/settings.json
